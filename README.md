@@ -5,6 +5,10 @@ inspiration : https://www.who.int/news-room/feature-stories/detail/a-society-is-
 
 regulatory: https://www.pharmacy.texas.gov/files_pdf/5CII_PrescriptionFormFAQ.pdf
 
+![image](https://github.com/premgan/MyRx/assets/28261714/095b3cf1-1fb9-42ed-80b5-5679df619754)
+
+reference: https://www.pharmacy.texas.gov/files_Word/Disp%20Dir1.doc
+
 The Texas State Board of Pharmacy (TSBP) regulates the practice of pharmacy in Texas. The TSBP has established specific requirements for prescriptions, including the following:
 
 Prescriptions must be written on an official prescription form from the TSBP.
